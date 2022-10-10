@@ -1,0 +1,22 @@
+body{
+    overflow-x: hidden;
+    
+}
+
+.grid{
+   
+    display: grid;
+    grid-template-columns: repeat(3,342px);
+    width: 1044px;
+    margin: 0 auto;
+    gap: 20px;
+    
+}
+
+.bd{
+    background-color: #202020;
+}
+
+.bdColor{
+    background-color: #424242;
+}
